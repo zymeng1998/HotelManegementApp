@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antra.HotelManegementApp.ConsoleApp", "Antra.HotelManegementApp.ConsoleApp\Antra.HotelManegementApp.ConsoleApp.csproj", "{A0CF06C6-3E76-49D2-9F11-8E7494529DB5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antra.HotelManagementApp.ConsoleApp", "Antra.HotelManegementApp.ConsoleApp\Antra.HotelManagementApp.ConsoleApp.csproj", "{A0CF06C6-3E76-49D2-9F11-8E7494529DB5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antra.HotelManagementApp.Data.Model", "Antra.HotelManagementApp.Data.Model\Antra.HotelManagementApp.Data.Model.csproj", "{7D7A8E23-7887-4186-BB3B-9101B2F752D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antra.HotelManagement.Data.Repository", "Antra.HotelManagement.Data.Repository\Antra.HotelManagement.Data.Repository.csproj", "{4D665FA5-90AE-48D3-9150-28DF0107E8FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antra.HotelManagementApp.Data.Repository", "Antra.HotelManagementApp.Data.Repository\Antra.HotelManagementApp.Data.Repository.csproj", "{579355EE-AE30-432E-B2CB-38CA55B55231}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{7D7A8E23-7887-4186-BB3B-9101B2F752D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D7A8E23-7887-4186-BB3B-9101B2F752D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D7A8E23-7887-4186-BB3B-9101B2F752D9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D665FA5-90AE-48D3-9150-28DF0107E8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D665FA5-90AE-48D3-9150-28DF0107E8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D665FA5-90AE-48D3-9150-28DF0107E8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D665FA5-90AE-48D3-9150-28DF0107E8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579355EE-AE30-432E-B2CB-38CA55B55231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579355EE-AE30-432E-B2CB-38CA55B55231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579355EE-AE30-432E-B2CB-38CA55B55231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579355EE-AE30-432E-B2CB-38CA55B55231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

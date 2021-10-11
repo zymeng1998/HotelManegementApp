@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Antra.HotelManagementApp.Data.Model
 {
-    class Service
+    public class Service
     {
         public int Id { get; set; }
         public int RoomNo { get; set; }
