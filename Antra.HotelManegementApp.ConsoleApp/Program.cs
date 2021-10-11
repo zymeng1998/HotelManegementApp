@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace Antra.HotelManegementApp.ConsoleApp
+namespace Antra.HotelManagementApp.ConsoleApp
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ManageRoomType mRT = new ManageRoomType();
+
+            mRT.Run();
         }
     }
 }
