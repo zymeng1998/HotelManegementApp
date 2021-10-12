@@ -6,6 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Antra.HotelManagementApp.Data.Model\Antra.HotelManagementApp.Data.Model.csproj" />
+    <ProjectReference Include="..\Antra.HotelManagementApp.Data.Repository\Antra.HotelManagementApp.Data.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="appSettings.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
